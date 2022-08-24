@@ -1,2 +1,2 @@
-# Microk8s-in-Action
-Microk8s in Action, published by Packt
+# IoT Edge Computing with MicroK8s
+IoT Edge Computing with MicroK8s, published by Packt
