@@ -93,3 +93,7 @@ is an experienced solutions architect professional, with about 20+ years of expe
 He specializes in cloud, cloud-native, containers, and container orchestration tools, such as Kubernetes, IoT, digital twin, and microservices domains, and has obtained multiple certifications from various cloud providers.
 He is also contributing author in leading journals such as InfoQ, Container Journal, DevOps.com, The New Stack, and the Cloud Native Computing Foundation (CNCF.io) blog.
 His articles on emerging technologies (including the cloud, Docker, Kubernetes, microservices, and cloud-native development) can be read on his blog at upnxtblog.com.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803230634">https://packt.link/free-ebook/9781803230634 </a> </p>
